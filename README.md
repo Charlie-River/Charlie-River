@@ -1,16 +1,28 @@
-### Hi there 👋
+### Howdy! 👋
 
 <!--
 **Charlie-River/Charlie-River** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+I am currently a university student studying Computer Science! 
+
+- 🔭 I’m currently working on: a to-do list website (a classic I know).
+
+- 🌱 I’m currently learning:
+      - Web Develment! I have the basics down but I am looking to incorporate some more frameworks.
+      - Java, I'm trying to focus on nailing the data structures for this!
+      - Currently trying to expand my portfolio as well :)
+
+- 🤔 I’m looking for help with: EVERYTHING!!
+      I'm still just learning so any tips, tricks or general knowledge you fancy sharing please do!
+
+- 📫 Feel free to contact me via
+      - Email: charlie.lake19@gmail.com
+      - LinkedIn: linkedin.com/in/charlielake03
+
+- 💡 You can see more of my projects on my website: charlielake.dev
+      Let me know what'cha think!
+
+
+
