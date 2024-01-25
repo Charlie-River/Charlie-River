@@ -5,24 +5,21 @@
 
 Here are some ideas to get you started:
 -->
-I am currently a university student studying Computer Science! 
-
 - 🔭 I’m currently working on: a to-do list website (a classic I know).
 
 - 🌱 I’m currently learning:
-      - Web Develment! I have the basics down but I am looking to incorporate some more frameworks.
-      - Java, I'm trying to focus on nailing the data structures for this!
-      - Currently trying to expand my portfolio as well :)
+  + Web Development! I have the basics down but I am looking to incorporate some more frameworks.
+  + Java, I'm trying to focus on nailing the data structures for this!
+  + Currently trying to expand my portfolio as well :)
 
 - 🤔 I’m looking for help with: EVERYTHING!!
-      I'm still just learning so any tips, tricks or general knowledge you fancy sharing please do!
+  I'm still just learning, so any tips, tricks, or general knowledge you fancy sharing, please do!
 
-- 📫 Feel free to contact me via
-      - Email: charlie.lake19@gmail.com
-      - LinkedIn: linkedin.com/in/charlielake03
+- 📫 Feel free to contact me via:
+  - Email: charlie.lake19@gmail.com
+  - LinkedIn: linkedin.com/in/charlielake03
 
-- 💡 You can see more of my projects on my website: charlielake.dev
-      Let me know what'cha think!
-
+- 💡 You can see more of my projects on my website: [charlielake.dev](https://charlielake.dev)
+  Let me know what'cha think!
 
 
