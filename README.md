@@ -12,9 +12,6 @@ Here are some ideas to get you started:
   + Java, I'm trying to focus on nailing the data structures for this!
   + Currently trying to expand my portfolio as well :)
 
-- 🤔 I’m looking for help with: EVERYTHING!!
-  I'm still just learning, so any tips, tricks, or general knowledge you fancy sharing, please do!
-
 - 📫 Feel free to contact me via:
   - Email: charlie.lake19@gmail.com
   - LinkedIn: [charlielake03](https://www.linkedin.com/in/charlielake03/)
