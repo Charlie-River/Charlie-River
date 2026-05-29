@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on: my portfolio website).
+- 🔭 I’m currently working on: learning React.js.
 
 - 🌱 I’m currently learning:
   + Web Development! I have the basics down but I am looking to incorporate some more frameworks.
