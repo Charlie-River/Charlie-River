@@ -16,7 +16,6 @@ Here are some ideas to get you started:
   - Email: charlie.lake19@gmail.com
   - LinkedIn: [charlielake03](https://www.linkedin.com/in/charlielake03/)
 
-- 💡 You can see more of my projects on my website: Not yet!
-  Let me know what'cha think!
+- 💡 You can see more of my projects on my website: charlielake.dev
 
 
